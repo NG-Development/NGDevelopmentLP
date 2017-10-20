@@ -1,7 +1,7 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
-
+future:true
 url: http://yoursite.com
 title: Your Awesome Site
 email: your-email@domain.com
