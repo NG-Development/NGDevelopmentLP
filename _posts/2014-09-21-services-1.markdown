@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: ipad.png 
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: How to Use
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Click the download button on the home page and save it wherever you'd like. Then unzip the file onto your desktop, double click on the extracted folder and locate UI.exe. Congratulations you have now successfully downloaded our project. We have some sample models that you can also download to test out our program. 
