@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 future:true
-url: http://yoursite.com
+url: https://github.com/NG-Development/ngdevelopment
 title: Your Awesome Site
 email: your-email@domain.com
 author: Your Name
