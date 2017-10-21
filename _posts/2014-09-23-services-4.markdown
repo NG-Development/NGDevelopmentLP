@@ -1,7 +1,7 @@
 ---
 layout: default
 img: video.png
-category: Video
+category: video
 title: Bugs and Issues
 description: |
 ---
