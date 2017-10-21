@@ -1,7 +1,7 @@
 ---
 layout: default
 img: millenium.png
-category: Instructions
+category: Bugs
 title: Bugs and Issues
 description: |
 ---
