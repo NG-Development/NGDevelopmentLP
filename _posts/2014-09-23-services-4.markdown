@@ -1,8 +1,8 @@
 ---
 layout: default
-img: video.PNG
+img: video.png
 category: video
-title: Video
+title: video
 description: |
 ---
 This is a [video](https://www.youtube.com/watch?v=E1GDdNYzrLE&feature=youtu.be) showing all the aspects of our project. It displays 3 types of planes as well as the antenna placements of one. 
