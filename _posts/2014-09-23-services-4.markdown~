@@ -1,0 +1,8 @@
+---
+layout: default
+img: video.png
+category: Video
+title: Bugs and Issues
+description: |
+---
+This is a [video][issue](https://github.com/NG-Development/ngdevelopment/issues) showing all the aspects of our project. It displays 3 types of planes as well as the antenna placements of one. 
