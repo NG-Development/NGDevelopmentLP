@@ -1,8 +1,0 @@
----
-layout: default
-img: video.png
-category: Instructions
-title: Video
-description: |
----
-You can check out our [video](https://www.youtube.com/watch?v=E1GDdNYzrLE&feature=youtu.be) which demonstrates what each of our buttons do. It displays a few different aircrafts and the antenna placements of the F16. 
