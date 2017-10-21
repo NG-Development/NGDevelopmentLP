@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Video.png
+img: video.png
 category: Video
 title: Video
 description: |
