@@ -1,10 +1,10 @@
 ---
 layout: default
 img: dog.png
-category: Services
-title: 3D Device Mockups<br>by PSDCovers
+category: Instructions
+title: Examples
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Our <b>Import Plane Model<b> button currently supports 3D model types obj, ply, and stl. After import the program will display the 3D model you selected and allow you to scale via the scroll wheel on your mouse and rotate via mouse movements.
+  <b>Toggle Wireframe Mode<b> allows you to visualize the wireframe of the 3D model you imported.
+  <b>Import Antennas from CSV<b> will allow you to import antenna locations display them on the 3D model via red spheres.

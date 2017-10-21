@@ -1,8 +1,8 @@
 ---
 layout: default
 img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+category: Instructions
+title: Bugs and Issues
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+If you come across any bugs while testing our program please visit our [issue](https://github.com/NG-Development/ngdevelopment/issues), on GitHub and create an issue to let us know. You can also visit our [Google Form](https://docs.google.com/forms/d/1Bn4EH_4CYTpfrdy3laXQs74fKHduTYY-pFDmL_U7Ofc/prefill) to leave any thoughts or improvements you think we can make.
