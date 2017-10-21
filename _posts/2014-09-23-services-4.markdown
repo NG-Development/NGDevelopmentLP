@@ -1,8 +1,8 @@
 ---
 layout: default
 img: video.png
-category: Video
+category: Instructions
 title: Video
 description: |
 ---
-This is a [video](https://www.youtube.com/watch?v=E1GDdNYzrLE&feature=youtu.be) showing all the aspects of our project. It displays 3 types of planes as well as the antenna placements of one. 
+You can check out our [video](https://www.youtube.com/watch?v=E1GDdNYzrLE&feature=youtu.be) which demonstrates what each of our buttons do. It displays a few different aircrafts and the antenna placements of the F16. 
