@@ -5,4 +5,5 @@ category: Bugs
 title: Bugs and Issues
 description: |
 ---
-If you come across any bugs while testing our program please visit our [issue](https://github.com/NG-Development/ngdevelopment/issues), on GitHub and create an issue to let us know. You can also visit our [Google Form](https://goo.gl/forms/hE6svtLI5Ok4A7Ms1) to leave any thoughts or improvements you think we can make.
+If you come across any bugs while testing our program please visit our [Github Issues](https://github.com/NG-Development/ngdevelopment/issues), and create an issue with what you've discovered and label it as <b>bug</b>. 
+You can also visit our [Google Form](https://goo.gl/forms/hE6svtLI5Ok4A7Ms1) to leave your thoughts on our project as well as any improvements we can make.
