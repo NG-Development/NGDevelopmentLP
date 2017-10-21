@@ -6,8 +6,9 @@ url: https://github.com/NG-Development/ngdevelopment
 title: NGDevelopment
 email: NGDevelopment
 author: NGDevelopment
-description: > # "This is our project for CSE 442. Our team worked closely with Northrop
-Grumman to create a 3D Antenna Visualization Tool.
+description: > # "Landing Page for our CSE 442 Project. 
+  This is our CSE 442 project. Our team was working closely with  
+  Northrop Grumman to create a 3D Antenna Visualization Tool. 
 copyright: 'Copyright &copy; 2017 NGDevelopment. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
