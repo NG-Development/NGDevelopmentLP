@@ -11,7 +11,6 @@ description: > # "Landing Page for our CSE 442 Project.
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Copyright &copy; 2015 NGDevelopment. All Rights Reserved.'
->>>>>>> f0de087c5a5b10a2ecfd6405c7a0483ef975269e
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
