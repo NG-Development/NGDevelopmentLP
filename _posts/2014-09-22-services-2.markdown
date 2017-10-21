@@ -8,4 +8,4 @@ description: |
   <p>Our <b>Import Plane Model</b> button currently supports 3D model types obj, ply, and stl. After import the program will display the 3D model you selected and allow you to scale via the scroll wheel on your mouse and rotate via mouse movements.</p>
   <p><b>Toggle Wireframe Mode</b> allows you to visualize the wireframe of the 3D model you imported.</p>
   <p><b>Import Antennas from CSV</b> will allow you to import antenna locations display them on the 3D model via red spheres.</p>
-  <p>You can check out our <iframe width="560" height="315" src="https://www.youtube.com/embed/E1GDdNYzrLE" frameborder="0" allowfullscreen></iframe> which demonstrates what each of our buttons do. It displays a few different aircrafts and the antenna placements of the F16. </p>
+  <p>You can check out our <a href ="https://www.youtube.com/embed/E1GDdNYzrLE" target = "_blank"> video !</a> which demonstrates what each of our buttons do. It displays a few different aircrafts and the antenna placements of the F16. </p>
