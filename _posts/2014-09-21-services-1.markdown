@@ -5,6 +5,11 @@ category: Instructions
 title: Instructions
 description: |
 ---
-  Click the download button on the home page and save the executable wherever you'd like. Congratulations, you have now successfully downloaded our project. 
+  Click the <b>download</b> button on the home page and save the zip folder wherever you'd like. 
+  <p><b>1.<b/> Extract the folder onto your desktop</p>
+  <p><b>2.<b/> Open the extracted the folder</p>
+  <p><b>2.<b/> Double ckick <b>UI.exe</b> and you are ready to start using our desktop application </p>
+  
+  <p>Congratulations, you have now successfully downloaded our project. 
   We have a few sample models that can use to test out our program. 
-  We have a sample CSV that contains the locations of antennas that work specifically with the F16 model.
+  We have a sample CSV that contains the locations of antennas that work specifically with the F16 model.</p>
