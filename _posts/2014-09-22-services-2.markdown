@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: Wireframe.png
 category: Instructions
 title: Examples
 description: |
