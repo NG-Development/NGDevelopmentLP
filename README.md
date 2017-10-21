@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Landing Page Jekyll theme
 
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
@@ -33,3 +34,7 @@ The contents of this repository are licensed under the [Apache
 
 ## Version
 1.0.1
+=======
+
+https://ng-development.github.io/NGDevelopmentLP/
+>>>>>>> f0de087c5a5b10a2ecfd6405c7a0483ef975269e
