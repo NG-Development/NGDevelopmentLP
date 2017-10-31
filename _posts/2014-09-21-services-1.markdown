@@ -2,7 +2,7 @@
 layout: default
 img: a10.png
 category: Instructions 
-title: Instructions(For Windows Users)
+title: Instructions (For Windows Users)
 description: |
 ---
   Click the <b>download</b> button on the home page and save the zip folder wherever you'd like. 
