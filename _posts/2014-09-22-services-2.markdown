@@ -1,7 +1,7 @@
 ---
 layout: default
 img: Wireframe.png
-category: Services
+category: Instructions
 title: Examples
 description: |
 ---
