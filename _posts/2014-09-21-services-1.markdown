@@ -1,7 +1,7 @@
 ---
 layout: default
 img: a10.png
-category: Instructions 
+category: Services 
 title: Instructions (For Windows Users)
 description: |
 ---
