@@ -25,9 +25,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: Download 
+  - title: Windows 
+    url: UI.zip
+  - title: apple
     url: UI.zip
   - title: github
     url: https://github.com/NG-Development/ngdevelopment
-  - title: Models
-    url: Models.rar
