@@ -5,9 +5,9 @@ category: Instructions
 title: Instructions (For Windows Users)
 description: |
 ---
-  Click the <b>download</b> button on the home page and save the zip folder wherever you'd like. 
+  Click the <b>Windows</b> button on the home page and save the zip folder wherever you'd like. 
   <p><b>1.</b> Extract the folder onto your desktop</p>
   <p><b>2.</b> Open the extracted the folder</p>
   <p><b>3.</b> Double click <b>UI.exe</b> and you are ready to start using our desktop application </p>
-  <p>We have a few sample models that you can use to test out our program. 
-  We have a sample CSV that contains the locations of antennas that work specifically with the F16 model.</p>
+  <p>Contained inside the zipped folder there are some sample models for you to test. 
+  We provide a sample CSV that contains the locations of antennas that work specifically with the F16 model.</p>
