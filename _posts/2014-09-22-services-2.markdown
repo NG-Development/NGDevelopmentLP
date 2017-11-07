@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Wireframe.png
+img: wireframeF16.png
 category: Instructions
 title: Examples
 description: |
