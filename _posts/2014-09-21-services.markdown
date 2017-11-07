@@ -1,6 +1,6 @@
 ---
 layout: default
-img: a10fixed.png
+img: a10.png
 category: Instructions
 title: Instructions (For Windows Users)
 description: |
