@@ -9,5 +9,5 @@ description: |
   <p><b>Toggle Wireframe</b> allows you to visualize the wireframe of the 3D model you imported.</p>
   <p><b>Toggle Antennas</b> will allow you to show/hide the antennas once they are imported. </p>
   <p>You can check out our <a href ="https://youtu.be/Zxd8HRlunFc" target = "_blank"> <b>video</b></a> which demonstrates what each of our buttons do. You can also check out our 
-  <a href ="https://github.com/NG-Development/ngdevelopment/wiki/Add-on-features" target = "_blank"> <b>Wiki</b> page to read about our add-on features
+  <a href ="https://github.com/NG-Development/ngdevelopment/wiki/Add-on-features" target = "_blank"> <b>Wiki</b></a> page to read about our add-on features
   It displays a few different aircrafts and the antenna placements of the F16. We have added a few new features for our Official Release that are demonstrated in the video</p>
